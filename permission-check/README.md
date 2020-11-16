@@ -1,4 +1,4 @@
-# permission-check
+# [permission-check](https://www.npmjs.com/package/permission-check)
 
 ## Start
 
